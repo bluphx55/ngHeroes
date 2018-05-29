@@ -38,6 +38,9 @@ testem.log
 .DS_Store
 Thumbs.db
 
+#Package-lock.json
+package-lock.json
+
 
 /target/
 /out/
